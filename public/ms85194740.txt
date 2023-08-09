@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Fichier de vérification de la propriété du domaine pour Microsoft 365 : placer dans la racine du site web",
+  "Domain": "portalunimar.unimar.edu.ve",
+  "Id": "f9a9b1c4-9d85-4e7e-975d-a379924449f1"
+}

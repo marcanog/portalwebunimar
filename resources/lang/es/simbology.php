@@ -1,0 +1,20 @@
+<?php
+return[
+    'simbology' => 'Simbología UNIMAR',
+    'temp-works' => 'Plantillas para trabajos',
+    'temp-pptx' => 'Plantillas para diapositivas',
+    'logo-serv' => 'Logos Servicio C',
+    'donw-man' => 'Descargar Manual Completo',
+    'donw-1' => 'Descargar 1',
+    'donw-2' => 'Descargar 2',
+    'down-hinm' => 'Descargar Himno UNIMAR Completo',
+    'down-gral' => 'Descargar Formato General',
+    'down-guide' => 'Descargar Guía Instruccional',
+    'down-temp' => 'Descargar Plantillas',
+    'down-format' => 'Descargar Formatos',
+    'id-use' => 'Utiliza correctamente nuestra identidad corporativa',
+    'serv-logo' => 'Descargar Logo de mi Servicio Comunitario',
+    'text-duty' => 'Dudas y Consultas',
+    'text-duty-2' => 'Ante cualquier duda sobre la normativa gráfica desarollada en este documento, posibles casos de aplicación excepcional de marcas por parte de terceros, de decanatos o departamentos, por favor, contacte con el departamento Programa de Educación Virtual',
+    'mail-PEV' => 'peducacion.virtual@unimar.edu.ve',
+];

@@ -1,0 +1,37 @@
+<?php
+return[
+    'title' => 'Dean of Economic and Social Sciences',
+    'chief-name' => 'Verónica Ruiz',
+    'chief-role' => 'Dean (E)',
+    'chief-mail' => 'svruiz.1642@unimar.edu.ve',
+    'asist-name' => 'Egibel Marín',
+    'asist-role' => 'Assistant',
+    'asist-mail' => 'emarin.5588@unimar.edu.ve',
+    'coordpasinv-name' => '',
+    'coordpasinv-role' => 'Internship and Research Coordinator',
+    'coordpasinv-mail' => '@unimar.edu.ve',
+    'ceys-mission-title' => 'Objective',
+    'ceys-mission' => 'To make the School of Administration and Public Accounting of the University of Margarita the first business school in Eastern Venezuela with professors of the highest possible academic rank, capable of creating, disseminating and applying knowledge for the solution of regional problems in the midst of an adequate environment for the development of the educational process. ',
+    'ceys-principles-title' => 'Values',
+    'ceys-principle-1' => 'Initiative: This Deanery has the express intention of becoming an agent of change in all those processes in which it is involved through the proactivity of each of its actions.',
+    'ceys-principle-2' => 'Transparency: Each of the decisions taken must be attached to strict compliance with guidelines, rules and procedures issued by the University Council, others that are within its competence being clearly defined and will be universally applicable to all involved.',
+    'ceys-principle-3' => 'Excellence: Each of the actions of this Deans Office will be oriented towards continuous improvement in those processes of which it is part both as an internal and external client.',
+    'ceys-principle-4' => 'Respect: The treatment given to each and every person that in any condition comes to the instance that this Deans Office represents inside or outside the institution will be marked by the greatest cordiality, attention and immediate response to any requirement',
+    'ceys-principle-5' => 'Justice: All those decisions where the Deans Office is involved as resolution instances will be the product of an objective analysis of the elements in strict adherence to the guidelines, norms and procedures emanating from the higher instances without any type of distinction among those involved.',
+    'ceys-principle-6' => 'Freedom: All those related in any way with this Deans Office have the right to express themselves about its performance, making use of the elementary rules of courtesy and through the regular channels as an instrument for the continuous improvement of the processes under their responsibility.',
+    'ceys-principle-7' => 'Humility: This Deans Office assumes itself as another agent of the educational process, as a facilitator in the processes in which it is involved, acting with the disposition to collaborate with any instance of the university institutionality that requires it without any conditioning',
+    'ceys-administ-title'=> 'Bachelor Degree in Administration',
+    'ceys-administ'=> 'The graduate in Business Administration is able to perform the functions of a project leader capable of formulating plans according to the needs of the organization, according to market requirements and national reality, able to adapt the organization to internal and external changes; effectively mastering the administrative processes, the fundamental basis of their academic training, through planning, organization, management and control of all organizational resources, creating strategies and decision making for problem solving. It also provides the ideal conditions for the effective performance of the human talent in charge, evaluating the efficiency of processes and administrative management.
+The professional graduate of this career demonstrates a behavior that corresponds to the profile, ethical, professional and social guiding their business actions in a responsible manner, in accordance with the legal regulations of commercial, labor and tax in force.',
+    'ceys-contpub-title' => 'Bachelor in Public Accounting',
+    'ceys-contpub' => 'This profile is made up of cognitive, personal and interpersonal autonomy, social insertion and performance skills. The public accountant graduated from UNIMAR is a professional capable of participating creatively and scientifically in the production and issuance of economic and financial reports of organizations, as well as in the interpretation, analysis and diagnosis of such reports.
+In addition, he/she must develop a set of skills and attitudes necessary to promote within the organizations the implementation of accounting practices that faithfully reflect the performance of the management of the organizations as well as to adapt the same to the changes of the legal structure in an increasingly demanding environment that requires assertiveness and firmness in decision making.
+To effectively perform the activities and functions that are proper, the graduate of the career of Public Accounting has a solid ethical, scientific and technical training that enables him to innovate in the field of accounting knowledge and develop new technologies in their area of public or private business action, in addition to having a comprehensive training that projects its image as a leader beyond the borders of the company it serves.',
+    'ceys-info'=> 'Contact information',
+    'ceys-mail-title' => 'E-mail:',
+    'ceys-telf-title' => 'Phone:',
+    'ceys-sched-title' => 'Hours of operation:',
+    'cey-mail' => 'decanato.ceys@unimar.edu.ve',
+    'cey-phone' => '+58 0295 2871111',
+    'ceys-sched' => 'Monday - Friday 8am - 12pm and 1pm to 5pm',
+];

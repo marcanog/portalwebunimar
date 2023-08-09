@@ -1,0 +1,12 @@
+.row{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+    
+.owl-dots button.owl-dot.active span, 
+.owl-dots button.owl-dot:hover span {
+    background-color: #0d4d98 !important;
+}
+.owl-dots button.owl-dot{
+    background: white !important;
+}

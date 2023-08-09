@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "demo.aryabhattacollege.ac.in",
+  "Id": "c93ba08d-a503-4378-b749-78a1aed14513"
+}

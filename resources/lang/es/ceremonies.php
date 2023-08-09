@@ -1,0 +1,23 @@
+<?php
+return[
+    'title' => 'Promoción XXXVII Prof. Pedro Augusto Beauperthuy Urich',
+    'event-1' => 'Miércoles 26/10/2022',
+    'descript-1-title' => 'Ensayo General',
+    'descript-1-text' => '2:00 pm  Cancha techada (todas las carreras)',
+    'descript-2-title' => 'Prueba y Entrega de Togas',
+    'descript-2-text' => '9:00 am - 12:00 m  Sala de Extensión (todas las carreras)',
+    'event-2' => 'Jueves 27/10/2022',
+    'descript-3-title' => 'Prueba y Entrega de Togas',
+    'descript-3-text' => '1:00 pm - 4:00 pm Cancha techada (todas las carreras)',
+    'event-3' => 'Jueves 10/11/2022',
+    'descript-4-title' => 'Firma del Libro de Actas',
+    'descript-4-text' => '9:00 am Sala de Conferencias II (Administración, Contaduría Pública y Derecho)',
+    'descript-5-text' => '2:00 pm Sala de Conferencias II (Artes mención Diseño Gráfico, Idiomas Modernos, Ingeniería de Sistemas y Postgrado)',
+    'event-4' => 'Sábado 12/11/2022',
+    'descript-6-title' => 'Misa y Caminata Académica',
+    'descript-6-text' => '8:00 am Basílica Menor Virgen del Valle (todas las carreras)',
+    'event-5' => 'Martes 15/11/2022',
+    'descript-7-title' => 'Acto Académico',
+    'descript-7-text' => '9:00 am Hotel Venetur, Salón Bicentenario (Admnistración, Contaduría Pública y Derecho)',
+    'descript-8-text' => '2:30 am Hotel Venetur, Salón Bicentenario (Artes mención Diseño Gráfico, Idiomas Modernos, Ingeniería de Sistemas y Postgrado)',
+];
